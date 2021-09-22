@@ -1,4 +1,4 @@
-## Scraper
+## Medium Scraper 
 
 # Getting Started with Create React App
 
